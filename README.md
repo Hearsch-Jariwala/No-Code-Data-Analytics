@@ -2,14 +2,16 @@
 
 #### Team Members: Abhilash Sarnad, Christine Park, Hearsch Jariwala
 
+## Streamlit Interface
+
+The demo app allows the user to analyze different datasets, model them using different machine learning models and tune the hyperparameters by providing an interactive UI and generates interactive graphs. The app can be run locally, and can also be deployed on the Google Cloud Platform via the Google App Engine.
+
+![](.img/streamlit_app.png)
+
+
 ## Cloud Architecture 
 
 ![](.img/block_diagram.png)
-
-## Streamlit Interface
-
-![](.img/streamlit_app.png)
-The demo app allows the user to analyze different datasets, model them using different machine learning models and tune the hyperparameters by providing an interactive UI and generates interactive graphs. The app can be run locally, and can also be deployed on the Google Cloud Platform via the Google App Engine.
 
 
 ## Run the app locally
